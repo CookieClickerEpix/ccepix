@@ -5,6 +5,9 @@ Spoilers ahead.
 http://orteil.dashnet.org
 */
 
+/*Seriously? A request to make a mod of fucking COOKIE CLICKER? Mate, you must be going loco. I'll go dip an oreo in milk 
+just like you're doing with your sanity.*/
+
 /*=====================================================================================
 MISC HELPER FUNCTIONS
 =======================================================================================*/
@@ -723,8 +726,6 @@ Game.Launch=function()
 			{
 				if (new Date().getTime()-Game.lastClick<1000/15)
 				{
-					Game.autoclickerDetected+=Game.fps;
-					if (Game.autoclickerDetected>=Game.fps*5) Game.Win('Uncanny clicker');
 				}
 				Game.Earn(Game.computedMouseCps);
 				Game.handmadeCookies+=Game.computedMouseCps;

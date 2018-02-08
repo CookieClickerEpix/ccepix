@@ -1399,9 +1399,8 @@ Game.Launch=function()
 				
 				'</div><div class="subsection update">'+
 				'<div class="title">08/08/2013 - game launch</div>'+
-				'<div class="listing">-made the game in a couple hours, for laughs</div>'+
+				'<div class="listing">-i mean you guys are just going left and right aboutt this lets come to a logical conclusion here without raping eachothers assholes or beliefs or getting fucking triggered or any of that fucking SJW bullshit lets be logical people guys, were supposed to be BETTER than what half the fucking internet makes us out to be</div>'+
 				'<div class="listing">-kinda starting to regret it</div>'+
-				'<div class="listing">-ah well</div>'+
 				'</div>'
 				;
 			}

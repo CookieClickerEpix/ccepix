@@ -5,8 +5,6 @@ Spoilers ahead.
 http://orteil.dashnet.org
 */
 
-/*Seriously? A request to make a mod of fucking COOKIE CLICKER? Mate, you must be going loco. I'll go dip an oreo in milk 
-just like you're doing with your sanity.*/
 
 /*=====================================================================================
 MISC HELPER FUNCTIONS
@@ -1740,11 +1738,11 @@ Game.Launch=function()
 				]));
 				
 				if (Game.Objects['Antimatter condenser'].amount>0) list.push(choose([
-				'News : whole town seemingly swallowed by antimatter-induced black hole; more reliable sources affirm town "never really existed"!',
-				'News : "explain to me again why we need particle accelerators to bake cookies?" asks misguided local woman.',
-				'News : first antimatter condenser successfully turned on, doesn\'t rip apart reality!',
-				'News : researchers conclude that what the cookie industry needs, first and foremost, is "more magnets".',
-				'News : "unravelling the fabric of reality just makes these cookies so much tastier", claims scientist.'
+				'News : Cheater.',
+				'News : Cheater.',
+				'News : Cheater.',
+				'News : Cheater..',
+				'News : Cheater.'
 				]));
 				
 				if (Game.HasAchiev('Base 10')) list.push('News : cookie manufacturer completely forgoes common sense, lets OCD drive building decisions!');
@@ -2543,7 +2541,9 @@ Game.Launch=function()
 			Game.Unlock('Elder Covenant');
 		});
 		Game.Upgrades['Elder Pledge'].hide=3;
-		
+		/*Seriously? A request to make a mod of fucking COOKIE CLICKER? Mate, you must be going loco. I'll go dip an oreo in milk 
+		just like you're doing with your sanity.*/
+
 		order=150;
 		new Game.Upgrade('Plastic mouse','Clicking gains <b>+1% of your CpS</b>.',50000,[11,0]);
 		new Game.Upgrade('Iron mouse','Clicking gains <b>+1% of your CpS</b>.',5000000,[11,0]);
